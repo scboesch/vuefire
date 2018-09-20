@@ -1,2 +1,0 @@
-# vuefire
-Created with CodeSandbox
